@@ -16,4 +16,3 @@ Este projeto foi elaborado se trata de uma urna eletrônica onde o usuário pode
 - Arrays;
 - Functions;
 - DOM;
-- 
