@@ -6,7 +6,7 @@ Este projeto foi elaborado se trata de uma urna eletrônica onde o usuário pode
 
 ## Funcionamento do projeto:
 
-<p align="center">
+<p align="left">
   <img width="800px" src="assets/img/projetoUrna.gif">
 </p>
 
